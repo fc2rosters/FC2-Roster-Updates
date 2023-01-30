@@ -96,15 +96,15 @@ TEAM,AAC,East,Troy,TROY,70,APP,,,,,,,
 TEAM,AAC,East,Temple,TEM,70,NAVY,,,,,,,
 TEAM,AAC,East,East Carolina,ECU,65,TULN,,,,,,,
 TEAM,AAC,East,Connecticut,CONN,55,TLSA,,,,,,,
+
+
 # Coach format:,Team,Name,Age,Offense,Defense,Recruiting,Training,Off Scheme,Def Scheme,,,,
-COACH,ALA,Nick Saban,65,90,90,99,90,Pro Style,Conservative,,,,
-COACH,UGA,Kirby Smart,47,90,95,95,95,Pro Style,Aggressive,,,,
-COACH,CLEM,Dabo Swinney,53,85,90,90,90,Pro Style,Conservative,,,,
-COACH,COLO,Deion Sanders,65,90,95,95,90,Air Raid,Aggressive,,,,
-# Coordinator,Team,Name,Age,Playcalling,Position Bonus,Play Bonus,,,,,,,
-# OC,ALA,Mike Locksley,55,90,QB,Deep Pass,,,,,,,
-# Coordinator,Team,Name,Age,Playcalling,Position Bonus,Play Bonus,,,,,,,
-# DC,ALA,Kirby Smart,55,95,LB,Inside Run,,,,,,,
+COACH,ALA,Nick Saban,65,90,90,99,90,Pro Style,Conservative,,,,,,
+COACH,UGA,Kirby Smart,47,90,95,95,95,Pro Style,Aggressive,,,,,,
+COACH,CLEM,Dabo Swinney,53,85,90,90,90,Pro Style,Conservative,,,,,,
+COACH,COLO,Deion Sanders,65,90,95,95,90,Air Raid,Aggressive,,,,,,
+
+
 # Player format:,Team,Position,Name,Year (String),Height,Weight,Stars,,,,,,
 PLAYER,ALA,CB,Kool-Aid McKinstry,73,188,5,,
 PLAYER,FSU,DL,Jared Verse,Jr,76,251,5,,
